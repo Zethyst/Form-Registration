@@ -98,10 +98,6 @@ body{
     text-align: center;
     color: black;
 }
-.box{
-    /* margin: 20px; */
-    /* height: 100%; */
-}
 .Name{
     display: flex;
     flex-direction: row;
